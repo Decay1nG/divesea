@@ -409,7 +409,7 @@ section {
 
 .hero__section {
   background: white url("../resources/pictures/hero/Group.png") no-repeat top right/25rem;
-  padding: 1rem 0 11rem;
+  padding: 3rem 0 11rem;
   display: flex;
   align-items: center;
 }
